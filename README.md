@@ -1,2 +1,7 @@
-# toxicity-detection-multiclass-vs-binary
-The research paper titled "Comparative Analysis of Two-Class and Multi-Class Toxicity Detection Using Multi-Source Gaming Chat Data" is published on the International Conference on Computer Science and Computational Intelligence (ICCSCI 2025), organized by BINUS University.
+# Comparative analysis of two-class and multi-class toxicity detection using multi-source gaming chat data
+
+The 10th International Conference on Computer Science and Computational Intelligence (ICCSCI) 2025
+
+https://www.sciencedirect.com/science/article/pii/S1877050925026869
+
+Authors: Kasandika Andariefli, Vincentius Dewanto, Jervino Leonard Handaya, Andien Dwi Novika
